@@ -7,7 +7,7 @@
 ## Introduction
 This is a Modern UI/UX Restaurant Landing Page Website
 
-Alongside building the website, you have worked with :
+Alongside building the website, I worked with :
 
 - React Functional components and their reusability
 - React file and folder structure
